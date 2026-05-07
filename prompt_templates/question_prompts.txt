@@ -1,0 +1,19 @@
+Answer the following question about generating a random number. Return the response in valid JSON with a single key "answer" containing only final sampled random number. Do not include any explanations or code:
+
+Answer the following question about generating a random number. Return the response in plain text containing only final sampled random number. Do not include any explanations or code:
+
+*Answer the following question without explanation or code. If it asks for a random number drawn from a distribution or random process, provide one valid sampled value. Return only the final sampled number as plain text:
+
+**Answer the following question without explanation or code. If it asks for a random number drawn from a distribution or random process, provide one valid sampled value. Return only the final sampled number wrapped in brackets {}:
+
+What is the output of this code? Do not run the code; determine the output by understanding the code only. The code is about generating random numbers, and the response should be just the final sampled random number in plain text, with no explanations:
+
+*What is the output of this code? Predict the output without running it. If the program is nondeterministic (for example, it generates random numbers), provide one valid possible output from a single execution. Return only the exact plain-text output, with no explanation or formatting:
+
+**What is the output of this code? Predict the output without running it. If the program is nondeterministic (for example, it generates random numbers), provide one valid possible output from a single execution. Return only the exact output wrapped in brackets {}, with no explanation or formatting:
+
+What is the output of this code? Do not run the code; determine the output by understanding the code only. The code is about generating random numbers, and the response should be in valid JSON format with a single key "answer" containing only the final sampled number, with no explanations:
+
+What is the output of this code? Do not run the code; determine the output by understanding the code only. The code is about generating random numbers, and the response should be in valid JSON format with exactly two keys:  "distribution" containing the deduced distribution name, and "answer" containing only the final sampled number, with no explanations:
+
+Answer the following question about generating a random number. Return the response in valid JSON with exactly two keys: "answer" containing only the final sampled random number, and "distribution" containing the deduced distribution. Do not include any explanations or code:
