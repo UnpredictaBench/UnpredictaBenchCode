@@ -53,8 +53,8 @@ Typical evaluation notebooks include:
 - `get_results_acc_shuffling.ipynb`
 - `get_results_acc_realworld.ipynb`
 - `get_results_other_metrics.ipynb`
-- `get_results_other_metrics_extracted_realworld.ipynb`
-- `analyze_extracted_numbers_shuffling.ipynb`
+- `get_results_other_metrics_realworld.ipynb`
+- `get_results_other_metrics_shuffling.ipynb`
 
 ## Repository Layout
 
